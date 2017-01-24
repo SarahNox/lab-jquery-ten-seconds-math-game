@@ -1,1 +1,11 @@
 /*Use this file to add your styles -there are some cool img in the images path*/
+.form {
+  border: 1px;
+  border-style: solid;
+  width: 80px;
+  margin-top: 5px;
+}
+
+h1 {
+  color: blue;
+}
